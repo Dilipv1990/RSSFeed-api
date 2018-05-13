@@ -1,0 +1,10 @@
+version: '2.0'
+
+services:
+  express: #name of the first service
+    build: 
+      context: .
+      dockerfile: ./docker/api.dockerfile
+    ports: 
+      - '8000:8000'
+      

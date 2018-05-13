@@ -1,0 +1,32 @@
+{
+  "name": "final",
+  "version": "0.0.0",
+  "private": true,
+  "scripts": {
+    "start": "node ./bin/www"
+  },
+  "dependencies": {
+    "body-parser": "~1.15.1",
+    "cookie-parser": "~1.4.3",
+    "datapumps": "latest",
+    "debug": "~2.2.0",
+    "ejs": "~2.4.1",
+    "es6-shim": "^0.35.0",
+    "express": "~4.13.4",
+    "express-session": "^1.14.0",
+    "mailgun-js": "^0.16.0",
+    "morgan": "~1.7.0",
+    "neo4j-driver": "^1.1.0-M01",
+    "promise": "^7.1.1",
+    "ramda": "^0.25.0",
+    "reflect-metadata": "^0.1.2",
+    "rxjs": "^5.0.0-beta.6",
+    "serve-favicon": "~2.3.0",
+    "winston": "^2.2.0",
+    "xml2js": "^0.4.19",
+    "zone.js": "^0.6.12"
+  },
+  "devDependencies": {
+    "@angular/cli": "^1.6.3"
+  }
+}

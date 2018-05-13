@@ -1,0 +1,8 @@
+{
+	"env": "dev",
+	"SENDGRID_API_KEY": "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",
+	"MAILGUN_API":"key-1e5692b2614fd464801a4866810ab532",
+	"MAILGUN_API_PASS":"0d3a7ac37ff214bee953c3064c54d57b-bdd08c82-e7ee60fc",
+	"MAILGUN_PATH":"/v3/",
+	"MAILGUN_DOMAIN":"sandbox69caddee4cfe477b8f5d8ec6dc38fb16.mailgun.org"
+}
